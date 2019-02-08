@@ -1,0 +1,42 @@
+C:\Temp\VB\NotesDeCours\Chapitre02\Exercice005\Exercice005\bin\Debug\Exercice005.exe
+C:\Temp\VB\NotesDeCours\Chapitre02\Exercice005\Exercice005\bin\Debug\Exercice005.pdb
+C:\Temp\VB\NotesDeCours\Chapitre02\Exercice005\Exercice005\bin\Debug\Exercice005.xml
+C:\Temp\VB\NotesDeCours\Chapitre02\Exercice005\Exercice005\obj\x86\Debug\Exercice005.Form1.resources
+C:\Temp\VB\NotesDeCours\Chapitre02\Exercice005\Exercice005\obj\x86\Debug\Exercice005.Resources.resources
+C:\Temp\VB\NotesDeCours\Chapitre02\Exercice005\Exercice005\obj\x86\Debug\Exercice005.exe
+C:\Temp\VB\NotesDeCours\Chapitre02\Exercice005\Exercice005\obj\x86\Debug\Exercice005.xml
+C:\Temp\VB\NotesDeCours\Chapitre02\Exercice005\Exercice005\obj\x86\Debug\Exercice005.pdb
+C:\Temp\VB\NotesDeCours\Chapitre02\Exercice005\Exercice005\obj\x86\Debug\Exercice005.vbproj.GenerateResource.Cache
+C:\Temp\VB\NotesDeCours\Chapitre02\Exercice005_Demarrage\Exercice005\bin\Debug\Exercice005.exe
+C:\Temp\VB\NotesDeCours\Chapitre02\Exercice005_Demarrage\Exercice005\bin\Debug\Exercice005.pdb
+C:\Temp\VB\NotesDeCours\Chapitre02\Exercice005_Demarrage\Exercice005\bin\Debug\Exercice005.xml
+C:\Temp\VB\NotesDeCours\Chapitre02\Exercice005_Demarrage\Exercice005\obj\x86\Debug\Exercice005.vbprojResolveAssemblyReference.cache
+C:\Temp\VB\NotesDeCours\Chapitre02\Exercice005_Demarrage\Exercice005\obj\x86\Debug\Exercice005.Form1.resources
+C:\Temp\VB\NotesDeCours\Chapitre02\Exercice005_Demarrage\Exercice005\obj\x86\Debug\Exercice005.Resources.resources
+C:\Temp\VB\NotesDeCours\Chapitre02\Exercice005_Demarrage\Exercice005\obj\x86\Debug\Exercice005.vbproj.GenerateResource.Cache
+C:\Temp\VB\NotesDeCours\Chapitre02\Exercice005_Demarrage\Exercice005\obj\x86\Debug\Exercice005.vbproj.CoreCompileInputs.cache
+C:\Temp\VB\NotesDeCours\Chapitre02\Exercice005_Demarrage\Exercice005\obj\x86\Debug\Exercice005.exe
+C:\Temp\VB\NotesDeCours\Chapitre02\Exercice005_Demarrage\Exercice005\obj\x86\Debug\Exercice005.xml
+C:\Temp\VB\NotesDeCours\Chapitre02\Exercice005_Demarrage\Exercice005\obj\x86\Debug\Exercice005.pdb
+C:\Users\Sean's PC\Desktop\Dev03\Exercice005\bin\Debug\Exercice005.exe
+C:\Users\Sean's PC\Desktop\Dev03\Exercice005\bin\Debug\Exercice005.pdb
+C:\Users\Sean's PC\Desktop\Dev03\Exercice005\bin\Debug\Exercice005.xml
+C:\Users\Sean's PC\Desktop\Dev03\Exercice005\obj\x86\Debug\Exercice005.vbprojResolveAssemblyReference.cache
+C:\Users\Sean's PC\Desktop\Dev03\Exercice005\obj\x86\Debug\Exercice005.Form1.resources
+C:\Users\Sean's PC\Desktop\Dev03\Exercice005\obj\x86\Debug\Exercice005.Resources.resources
+C:\Users\Sean's PC\Desktop\Dev03\Exercice005\obj\x86\Debug\Exercice005.vbproj.GenerateResource.Cache
+C:\Users\Sean's PC\Desktop\Dev03\Exercice005\obj\x86\Debug\Exercice005.vbproj.CoreCompileInputs.cache
+C:\Users\Sean's PC\Desktop\Dev03\Exercice005\obj\x86\Debug\Exercice005.exe
+C:\Users\Sean's PC\Desktop\Dev03\Exercice005\obj\x86\Debug\Exercice005.xml
+C:\Users\Sean's PC\Desktop\Dev03\Exercice005\obj\x86\Debug\Exercice005.pdb
+C:\Users\seanl\OneDrive\Desktop\Dev03\Exercice005\bin\Debug\Exercice005.exe
+C:\Users\seanl\OneDrive\Desktop\Dev03\Exercice005\bin\Debug\Exercice005.pdb
+C:\Users\seanl\OneDrive\Desktop\Dev03\Exercice005\bin\Debug\Exercice005.xml
+C:\Users\seanl\OneDrive\Desktop\Dev03\Exercice005\obj\x86\Debug\Exercice005.vbprojAssemblyReference.cache
+C:\Users\seanl\OneDrive\Desktop\Dev03\Exercice005\obj\x86\Debug\Exercice005.Form1.resources
+C:\Users\seanl\OneDrive\Desktop\Dev03\Exercice005\obj\x86\Debug\Exercice005.Resources.resources
+C:\Users\seanl\OneDrive\Desktop\Dev03\Exercice005\obj\x86\Debug\Exercice005.vbproj.GenerateResource.cache
+C:\Users\seanl\OneDrive\Desktop\Dev03\Exercice005\obj\x86\Debug\Exercice005.vbproj.CoreCompileInputs.cache
+C:\Users\seanl\OneDrive\Desktop\Dev03\Exercice005\obj\x86\Debug\Exercice005.exe
+C:\Users\seanl\OneDrive\Desktop\Dev03\Exercice005\obj\x86\Debug\Exercice005.xml
+C:\Users\seanl\OneDrive\Desktop\Dev03\Exercice005\obj\x86\Debug\Exercice005.pdb
